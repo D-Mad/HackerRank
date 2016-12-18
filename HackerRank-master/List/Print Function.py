@@ -1,1 +1,0 @@
-print("cai quan que gi vay")
