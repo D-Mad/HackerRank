@@ -16,4 +16,4 @@ for i in range(int(input())) :
     elif s[0] == "print" :
         print(arr)            
                  
-        
+    #done    rerewrw
